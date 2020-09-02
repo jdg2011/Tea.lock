@@ -1,5 +1,5 @@
 # Tea.lock
-A tea-themed cryptography machine built in spreadsheets
+### _A tea-themed cryptography machine built in spreadsheets_
 
 
 * Symmetrical key encryption
